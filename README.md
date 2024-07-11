@@ -24,7 +24,10 @@
 
 #### Power BI Projects
 1. **[Soda Report](https://app.powerbi.com/view?r=eyJrIjoiOTBiZDM3YTQtZmYwOC00NWQ3LThkMDgtYmQ4YzZiYmU1NzcxIiwidCI6ImM1YjRlMWZlLThiNDEtNDEzMy1hNmU2LTE1NTk3MmE0ZTczYyIsImMiOjEwfQ%3D%3D)** 
-2. **[Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiOGIzODJjNTItOTdmMS00OWUxLTg5YTMtNDRiM2ZlNjk5MTU3IiwidCI6ImM1YjRlMWZlLThiNDEtNDEzMy1hNmU2LTE1NTk3MmE0ZTczYyIsImMiOjEwfQ%3D%3D)** 
+2. **[Snack Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiOGIzODJjNTItOTdmMS00OWUxLTg5YTMtNDRiM2ZlNjk5MTU3IiwidCI6ImM1YjRlMWZlLThiNDEtNDEzMy1hNmU2LTE1NTk3MmE0ZTczYyIsImMiOjEwfQ%3D%3D)**
+
+#### Tableau Projects
+1. **[Awesome Chocolates Dashboard Report](https://public.tableau.com/shared/8N43BXKGT?:display_count=n&:origin=viz_share_link)** 
 
 #### Software Engineering Design Patterns
 1. **[State Pattern](https://github.com/neoalaricv/statePattern.git)** 
