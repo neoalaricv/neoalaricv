@@ -36,9 +36,6 @@
 4. **[Builder Pattern](https://github.com/neoalaricv/builderPattern.git)** 
 5. **[SOLID Principles](https://github.com/neoalaricv/SOLIDLab.git)** 
 
-### My GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoalaricv&count_private=true&show_icons=true&theme=tokyonight)
-
 ### Skill Set
 - **Data Visualization Tools:** 
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
@@ -55,3 +52,6 @@
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
   ![Pentaho](https://img.shields.io/badge/Pentaho-0D87C9?style=for-the-badge&logo=pentaho&logoColor=white)
+
+### My GitHub Stats:
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=neoalaricv&count_private=true&show_icons=true&theme=tokyonight)
